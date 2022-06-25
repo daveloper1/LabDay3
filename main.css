@@ -1,0 +1,11 @@
+.nav-bar{
+    background-color: white;
+}
+
+.nav-list{
+    display: flex;
+    align-items: center;
+    display: inline;
+    
+}
+
